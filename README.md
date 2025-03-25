@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm [Your Name]! 👋</h1>
+<h1 align="center">Hi, I'm Mohamed Etman! 👋</h1>
 <h3 align="center">🚀 React Native | Python | AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="yourusername" /></a>
+  <a href="https://github.com/mohamedabdalltif"><img src="https://komarev.com/ghpvc/?username=mohamedabdalltif&label=Profile%20Views&color=0e75b6&style=flat" alt="mohamedabdalltif" /></a>
   <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
@@ -12,7 +12,7 @@
 ## 🚀 About Me
 🔹 Passionate developer with expertise in **React Native, Python, and AI**  
 🔹 Love building **mobile apps, AI models, and automation tools**  
-🔹 Currently working on **[Your Current Project](https://github.com/yourusername/yourproject)**  
+ 
 
 ---
 
@@ -41,17 +41,17 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedabdalltif&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdalltif&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🌍 Connect with Me  
-📧 Email: yourname@email.com  
+📧 Email: mae25806@gmail.com  
 🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourname)  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+
 
 ---
 
