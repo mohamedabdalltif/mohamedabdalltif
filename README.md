@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/mohamedabdalltif"><img src="https://komarev.com/ghpvc/?username=mohamedabdalltif&label=Profile%20Views&color=0e75b6&style=flat" alt="mohamedabdalltif" /></a>
-  <a href="https://linkedin.com/in/mohamed-etman-7a307b218"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-etman-7a307b218"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mae25806@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -12,6 +12,7 @@
 ## 🚀 About Me
 🔹 Full-Stack Developer with expertise in **React Native, Python, AI, and Data Science**  
 🔹 Experienced in **mobile development, backend APIs, AI-driven applications, and automation**  
+🔹 Developed **45+ mobile applications** with expertise in React Native & PHP  
 🔹 Currently working as a **Full-Stack Developer & Mobile App Team Lead at Camp Coding**  
 🔹 Passionate about **AI, machine learning, and building scalable applications**  
 
@@ -37,28 +38,32 @@
 ### 🔥 **AI & Software Development Projects**
 | Project | Description | Technologies | Repo |
 |---------|------------|--------------|------|
-| 📱 **Qibla Direction App** | React Native app for Qibla direction | React Native | [Repo](https://github.com/mohamedabdalltif/qibla-app) |
-| 🧑‍💻 **Financial Dashboard Auto Transcript Analyzer** | AI-powered financial analysis tool for extracting data from chart images | FastAPI, Transformers, GPT-NeoX-20B | [Repo](https://github.com/mohamedabdalltif/financial-analyzer) |
-| 🛍️ **E-commerce Scraper** | Web scraper for extracting product details | Python, Selenium, BeautifulSoup | [Repo](https://github.com/mohamedabdalltif/carrefour-scraper) |
+| 🧑‍💻 **Financial Dashboard Auto Transcript Analyzer** | AI-powered financial analysis tool for extracting data from chart images | FastAPI, Transformers, GPT-NeoX-20B | Private |
 | 🎙️ **English Language Instructor Assistant** | AI tool to evaluate pronunciation, grammar, and body language in English learning | OpenPose, MediaPipe, RNNs, NLP | Private |
-| 🔍 **Visual Question Answering** | Model answering questions based on images | VGG19, BERT, ResNet152 | Private |
-| 🏎️ **Car Classification** | CNN-based model for car classification | TensorFlow, OpenCV | Private |
+| 📡 **Smart Fish Farming Track System** | IoT system using Arduino & sensors for real-time fish farm monitoring | Arduino, IoT, Mobile App | Private |
+| 🏥 **Dr-Matary** | Educational app for medical students with secure content & Zoom integration | React Native, Firebase | Private |
+| ⚖️ **TS Academy** | Educational app for law students with video lessons & interactive questions | React Native, Firebase | Private |
+| 🎓 **The Pioneer** | Learning platform for secondary school students with live text chat | React Native, Firebase | Private |
+| 💰 **ACash** | Digital wallet integrating multiple banking & payment systems | React Native, API Integration | Private |
+| 🏠 **i4Technology** | Smart home automation app using MQTT real-time server technology | MQTT, IoT, React Native | Private |
+| 🏫 **Tanta University Coordination** | University appointment reservation system | React Native, Firebase | Private |
+| 🌞 **GO SOLAR** | Solar energy management platform | React Native, Firebase | Private |
 
 ---
 
 ## 💼 Work Experience
-### **Full-Stack Developer (Mobile App Team Lead) – Camp Coding** *(Aug 2022 - Present)*
-✅ Developed & maintained mobile applications using **React Native & PHP**  
-✅ Integrated third-party APIs and **optimized database queries** for better performance  
-✅ Worked with **secure authentication, scalable backends, and efficient data management**  
+### **Full-Stack Developer (Mobile App Team Lead) – Camp Coding** *(July 2022 - Present)*
+✅ Developed & maintained **45+ mobile applications** using **React Native & PHP**  
+✅ Designed secure **backend APIs** and optimized database performance  
+✅ Managed authentication, **real-time data processing**, and API integrations  
 
-### **Data Science Intern – National Bank of Egypt (NBE)** *(July 2024 - Oct 2024)*
-✅ Built the **Financial Dashboard Auto Transcript Analyzer** using **Gen-AI**  
-✅ Designed an **AI-powered interface** to analyze dashboards and generate summaries  
+### **AI Engineer Intern – National Bank of Egypt (NBE)** *(June 2024 - Present)*
+✅ Led the development of a **financial dashboard product**  
+✅ Built AI models to **extract financial data from images** and **generate summaries**  
 
-### **AI & Data Science Diploma – Digital Egypt Builders Initiative (DEBI)** *(Jan 2024 - Dec 2024)*
+### **AI & Cloud Computing Diploma – Digital Egypt Builders Initiative (DEBI)** *(Jan 2024 - Present)*
 ✅ Hands-on experience with **Deep Learning, Cloud Computing, & MLOps**  
-✅ Built **end-to-end AI solutions** in collaboration with experts  
+✅ Built **end-to-end AI solutions**  
 
 ---
 
@@ -90,8 +95,8 @@
 
 ## 🌍 Connect with Me  
 📧 Email: **mae25806@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/mohamed-etman-7a307b218](https://linkedin.com/in/mohamed-etman-7a307b218)  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+🔗 LinkedIn: [Mohamed Etman](https://www.linkedin.com/in/mohamed-etman-7a307b218)  
+🐙 GitHub: [mohamedabdalltif](https://github.com/mohamedabdalltif)  
 
 ---
 
