@@ -1,103 +1,68 @@
-<h1 align="center">Hi, I'm Mohamed Etman! 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer | AI & Data Science Enthusiast</h3>
+# Hi, I'm Mohamed Abdellatif Etman 👋
 
-<p align="center">
-  <a href="https://github.com/mohamedabdalltif"><img src="https://komarev.com/ghpvc/?username=mohamedabdalltif&label=Profile%20Views&color=0e75b6&style=flat" alt="mohamedabdalltif" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-etman-7a307b218"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mae25806@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+**AI / ML Engineer &nbsp;·&nbsp; Cairo, Egypt**
+
+> *"I build intelligent systems that learn, reason, and scale — from research prototype to production."*
 
 ---
 
-## 🚀 About Me
-🔹 Full-Stack Developer with expertise in **React Native, Python, AI, and Data Science**  
-🔹 Experienced in **mobile development, backend APIs, AI-driven applications, and automation**  
-🔹 Developed **45+ mobile applications** with expertise in React Native & PHP  
-🔹 Currently working as a **Full-Stack Developer & Mobile App Team Lead at Camp Coding**  
-🔹 Passionate about **AI, machine learning, and building scalable applications**  
+## 🧠 About me
+
+I'm an AI/ML Engineer passionate about turning cutting-edge research into real-world products. My work spans **machine learning**, **deep learning**, **generative AI**, and **NLP** — with a strong emphasis on building end-to-end pipelines that are both robust and deployable.
+
+When I'm not training models, I contribute to the open-source community and explore the latest developments in large language models and multimodal AI.
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
+## 🛠️ Core skills
+
+**AI / ML**
+`Python` `PyTorch` `TensorFlow` `Scikit-learn` `Hugging Face` `LangChain`
+
+**Specializations**
+`Large Language Models (LLMs)` `RAG Pipelines` `Computer Vision` `NLP` `Generative AI`
+
+**MLOps & Deployment**
+`Docker` `FastAPI` `REST APIs` `Model Fine-tuning` `Model Serving`
+
+**Data & Databases**
+`SQL` `NoSQL` `Pandas` `NumPy` `Data Pipelines`
 
 ---
 
-## 📌 Featured Projects
-### 🔥 **AI & Software Development Projects**
-| Project | Description | Technologies | Repo |
-|---------|------------|--------------|------|
-| 🧑‍💻 **Financial Dashboard Auto Transcript Analyzer** | AI-powered financial analysis tool for extracting data from chart images | FastAPI, Transformers, GPT-NeoX-20B | Private |
-| 🎙️ **English Language Instructor Assistant** | AI tool to evaluate pronunciation, grammar, and body language in English learning | OpenPose, MediaPipe, RNNs, NLP | Private |
-| 📡 **Smart Fish Farming Track System** | IoT system using Arduino & sensors for real-time fish farm monitoring | Arduino, IoT, Mobile App | Private |
-| 🏥 **Dr-Matary** | Educational app for medical students with secure content & Zoom integration | React Native, Firebase | Private |
-| ⚖️ **TS Academy** | Educational app for law students with video lessons & interactive questions | React Native, Firebase | Private |
-| 🎓 **The Pioneer** | Learning platform for secondary school students with live text chat | React Native, Firebase | Private |
-| 💰 **ACash** | Digital wallet integrating multiple banking & payment systems | React Native, API Integration | Private |
-| 🏠 **i4Technology** | Smart home automation app using MQTT real-time server technology | MQTT, IoT, React Native | Private |
-| 🏫 **Tanta University Coordination** | University appointment reservation system | React Native, Firebase | Private |
-| 🌞 **GO SOLAR** | Solar energy management platform | React Native, Firebase | Private |
+## 🚀 What I'm working on
+
+- 🔬 **Generative AI & LLM applications** — Building production-grade RAG pipelines, fine-tuning open-source LLMs, and exploring agentic AI frameworks.
+- 👁️ **Computer Vision** — Object detection, image segmentation, and custom model training for real-world datasets.
+- ⚙️ **MLOps & deployment** — Packaging models into scalable APIs, containerizing with Docker, and monitoring model drift in production.
 
 ---
 
-## 💼 Work Experience
-### **Full-Stack Developer (Mobile App Team Lead) – Camp Coding** *(July 2022 - Present)*
-✅ Developed & maintained **45+ mobile applications** using **React Native & PHP**  
-✅ Designed secure **backend APIs** and optimized database performance  
-✅ Managed authentication, **real-time data processing**, and API integrations  
+## 📄 My CVs
 
-### **AI Engineer Intern – National Bank of Egypt (NBE)** *(June 2024 - Present)*
-✅ Led the development of a **financial dashboard product**  
-✅ Built AI models to **extract financial data from images** and **generate summaries**  
-
-### **AI & Cloud Computing Diploma – Digital Egypt Builders Initiative (DEBI)** *(Jan 2024 - Present)*
-✅ Hands-on experience with **Deep Learning, Cloud Computing, & MLOps**  
-✅ Built **end-to-end AI solutions**  
+| Role | Link |
+|------|------|
+| 🤖 AI / ML Engineer | [View CV](https://github.com/mohamedabdalltif/resume/raw/main/Mohamed_Etman_AI_Engineer_CV.pdf) |
+| 💻 Full-Stack Developer | [View CV](https://github.com/mohamedabdalltif/resume/raw/main/Mohamed_Etman_Full_Stack_CV.pdf) |
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedabdalltif&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdalltif&theme=dark" alt="GitHub Streak" />
-</p>
+## 🤝 Open to
+
+- ✅ Full-time AI/ML Engineer roles
+- ✅ Research collaborations
+- ✅ Freelance AI projects
+- ✅ Open-source contributions
 
 ---
 
-## 📜 Certifications & Courses
-📌 **Azure AI & Cloud Certifications (In Progress)**  
-🔹 DP-100: **Azure Data Scientist Associate**  
-🔹 AI-102: **Azure AI Engineer Associate**  
+## 📬 Connect with me
 
-📌 **Machine Learning & AI**  
-🔹 **Stanford Machine Learning Specialization**  
-🔹 **Deep Learning Specialization**  
-🔹 **Generative AI with Large Language Models**  
+I'm always happy to talk AI, swap ideas, or explore new opportunities.
 
-📌 **Cloud & Software Engineering**  
-🔹 **Cloud Computing & Virtualization**  
-🔹 **Introduction to Agile Development (IBM)**  
-🔹 **Linux & Bash for Data Engineering**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
-## 🌍 Connect with Me  
-📧 Email: **mae25806@gmail.com**  
-🔗 LinkedIn: [Mohamed Etman](https://www.linkedin.com/in/mohamed-etman-7a307b218)  
-🐙 GitHub: [mohamedabdalltif](https://github.com/mohamedabdalltif)  
-
----
-
-💡 *"Keep coding, keep learning, and keep innovating!"* 🚀
+*⭐ If you find any of my repos useful, a star means a lot!*
